@@ -410,12 +410,21 @@ text-align:left;}
 div.de_03FDC443AD
 {
 text-align:left;text-indent:0;margin-left:0;}
+div.de_0C9FABBDB4
+{
+text-align:justify;text-indent:0;line-height:1.800;margin-top:0pt;margin-bottom:0pt;}
+div.de_18FF44BC87
+{
+text-align:center;text-indent:0;line-height:1.800;margin-top:0pt;margin-bottom:0pt;}
 div.de_1CF807F200
 {
 direction:ltr;text-align:left;text-indent:0;margin-left:0;line-height:1.800;}
 div.de_2765CAD4AA
 {
 text-indent:0;margin-top:0pt;margin-bottom:0pt;}
+div.de_38B3956165
+{
+text-align:center;}
 div.de_6AF6DD6F29
 {
 text-align:justify;}
@@ -425,9 +434,15 @@ line-height:1.800;}
 div.de_AC1BC24F7A
 {
 text-align:justify;line-height:1.800;}
+div.de_BE417251E8
+{
+text-align:center;text-indent:0;margin-left:50px;line-height:1.800;margin-top:0pt;margin-bottom:0pt;}
 div.de_BFDE95EB13
 {
 text-align:justify;line-height:1.800;margin-top:0pt;margin-bottom:0pt;}
+div.de_D098A46DB3
+{
+text-align:center;text-indent:0;margin-left:0;line-height:1.800;margin-top:0pt;margin-bottom:0pt;}
 div.de_D180F57957
 {
 text-align:justify;text-indent:0;margin-left:50px;line-height:1.800;margin-top:0pt;margin-bottom:0pt;}
@@ -437,6 +452,9 @@ text-align:left;line-height:1.800;}
 div.de_D8A905EC7A
 {
 margin-top:0pt;margin-bottom:0pt;}
+img.de_78924636B9
+{
+margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0;}
 img.de_F0AFF5680A
 {
 margin-top: 0; margin-right: 8px; margin-bottom: 8px; margin-left: 8px;}
@@ -485,6 +503,24 @@ span.de_CAB14B116D
 	counter-increment: list-counter-e24d03bd-d2d4-45f3-8b42-ee1772f707fe-0;
 }
 .list-counter-e24d03bd-d2d4-45f3-8b42-ee1772f707fe-0 > div > div[class='list-marker-chm'] {
+	display: inline-block;
+	text-align: left;
+	zoom: 1;
+	padding: 0;
+	margin: 0;
+	*display: inline;
+}
+.list-counter-e24d03bd-d2d4-45f3-8b42-ee1772f707fe-1 > div > * {
+	text-indent: 0px;}
+.list-counter-e24d03bd-d2d4-45f3-8b42-ee1772f707fe-1 > div > div[class='list-marker']:before {
+	display: inline-block;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+	content: '' counter(list-counter-e24d03bd-d2d4-45f3-8b42-ee1772f707fe-1, decimal) '.\00a0';
+	counter-increment: list-counter-e24d03bd-d2d4-45f3-8b42-ee1772f707fe-1;
+}
+.list-counter-e24d03bd-d2d4-45f3-8b42-ee1772f707fe-1 > div > div[class='list-marker-chm'] {
 	display: inline-block;
 	text-align: left;
 	zoom: 1;
